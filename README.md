@@ -1,6 +1,5 @@
 Hi there 👋 I am Kusuma
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Django and Flask Projects
 - 🌱 I’m currently learning: React.js
